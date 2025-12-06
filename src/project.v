@@ -33,7 +33,7 @@ module tt_um_mult_4 (
     .A(ui_in[3:0]),
     .B(ui_in[4:7]),
     .PP(uo_out[7:0]),
-    .init(uio_in[]0),
+    .init(uio_in[0]),
     .done(uio_out[0])
   );
 

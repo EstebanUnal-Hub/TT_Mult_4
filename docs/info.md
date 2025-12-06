@@ -1,7 +1,7 @@
 # 4-Bit Sequential Multiplier
 
 ## Overview
-
+this project was created by Esteban UNAL
 This project implements a **4-bit sequential multiplier** using the shift-and-add algorithm. The design multiplies two 4-bit unsigned numbers (A and B) to produce an 8-bit product (PP). The multiplier operates sequentially, performing one bit operation per clock cycle, making it area-efficient for ASIC implementation.
 
 ## How It Works
